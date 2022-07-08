@@ -20,5 +20,9 @@ REACT, Express, Node.js, JSON, API's, Socket.io, CSS
 - overhaul current CSS for more intuitive lok
 - deploy project
 
-https://user-images.githubusercontent.com/99374142/177895433-74bbbb32-b175-4c6b-a29d-c4d9410aab20.mp4
+
+
+
+
+https://user-images.githubusercontent.com/99374142/177896016-7a9b7259-72e1-479d-a3b6-7d194e011e23.mp4
 
