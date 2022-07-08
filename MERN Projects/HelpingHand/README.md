@@ -20,6 +20,7 @@ REACT, Express, Node.js, JSON, API's, Socket.io, CSS
 - overhaul current CSS for more intuitive lok
 - deploy project
 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 ![helping hands project demo](https://media.giphy.com/media/RlFgExXhTmZcipJ28L/giphy.gif)
 
 
