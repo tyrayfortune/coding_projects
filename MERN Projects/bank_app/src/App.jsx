@@ -5,6 +5,7 @@ import { Navbar, Hero, Stats, Business, Billing, CardDeal, Testimonials, Clients
 const App = () => 
 (
   //classnames are dynamically called from styl.js, where the functionallity is.
+  //this is where the background color is coming from
   <div className='bg-primary w-full overflow-hidden'>
     <div className={`${styles.paddingX} ${styles.flexCenter} `}>
       <div className={`${styles.boxWidth}`}>
