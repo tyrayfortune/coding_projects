@@ -3,6 +3,7 @@ import styles, {layout} from '../style'
 import Button from './Button'
 
 const CardDeal = () => 
+// deals with the card deal section, importing different stylings from style
   (
     <section className={layout.section}>
       <div className={layout.sectionInfo}>
