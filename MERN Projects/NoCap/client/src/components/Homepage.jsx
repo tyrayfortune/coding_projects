@@ -2,7 +2,7 @@ import React from 'react'
 import Button from './Button'
 
 const Homepage = () => {
-
+// s
     return (
         <div>
             <h1>Welcome to NoCap, <br />where you can view and correct any mistaken punctiation. </h1>
